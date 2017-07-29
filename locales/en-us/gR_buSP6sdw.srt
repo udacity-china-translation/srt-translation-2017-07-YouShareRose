@@ -29,7 +29,7 @@ better with your users.
 
 7
 00:00:19,551 --> 00:00:24,380
-Using A/B tests means that you
+>> Using A/B tests means that you
 can get data to make decisions
 
 8
@@ -64,7 +64,7 @@ we won't focus on how to implement
 14
 00:00:39,590 --> 00:00:42,090
 your using A/B testing framework
->> This
+This
 
 15
 00:00:42,090 --> 00:00:46,230
@@ -97,7 +97,7 @@ aspect of experimentation.
 
 21
 00:00:59,790 --> 00:01:02,700
-Review from the underlying
+Ranging from the underlying
 infrastructure to designing metrics and
 
 22
@@ -141,7 +141,7 @@ conclusions in A/B experiments.
 
 30
 00:01:28,600 --> 00:01:29,660
-And I'm Caroline Buckey.
+>> And I'm Caroline Buckey.
 
 31
 00:01:29,660 --> 00:01:31,993
