@@ -21,7 +21,6 @@
 6
 00:00:17,850 --> 00:00:22,849
 在集中式模型中 有一台功能强大的中央计算机承载项目
-In a centralized model there's one all powerful central computer that hosts the project;
 
 7
 00:00:22,849 --> 00:00:25,815
@@ -30,15 +29,14 @@ In a centralized model there's one all powerful central computer that hosts the 
 8
 00:00:25,815 --> 00:00:30,405
 在分布式模型中 没有中央信息库
-In the distributed model there's no central repository of information.
 
 9
 00:00:30,405 --> 00:00:33,600
-每个开发者在他们的计算机都有一份项目的完整的副本
+每个开发者在他们的计算机里都有一份项目的完整的副本
 
 10
 00:00:33,600 --> 00:00:36,368
-这非常酷因为你可以离线工作
+这非常酷 因为这样你就可以离线工作
 
 11
 00:00:36,368 --> 00:00:39,534
