@@ -24,22 +24,20 @@ out possible changes and
 
 6
 00:00:17,860 --> 00:00:19,551
-seeing what performs
-better with your users.
+seeing what performs better with your users.
 
 7
 00:00:19,551 --> 00:00:24,380
-Using A/B tests means that you
+>> Using A/B tests means that you
 can get data to make decisions
 
 8
 00:00:24,380 --> 00:00:27,160
-rather than relying on intuition or
-hippos ie,
+rather than relying on intuition or hipsters,
 
 9
 00:00:27,160 --> 00:00:29,840
-the highest paid person's opinion
+ie, the highest paid person's opinion.
 >> In this course,
 
 10
@@ -63,12 +61,11 @@ we won't focus on how to implement
 
 14
 00:00:39,590 --> 00:00:42,090
-your using A/B testing framework
->> This
+or use an A/B testing framework.
 
 15
 00:00:42,090 --> 00:00:46,230
-course is about how to design a task,
+This course is about how to design a task,
 choose metrics, and analyze the results.
 
 16
@@ -82,33 +79,31 @@ we take a minute to introduce ourselves?
 
 18
 00:00:50,400 --> 00:00:51,650
->> Sure.
-I'm Diane Tang.
+>> Sure. I'm Diane Tang.
 
 19
 00:00:51,650 --> 00:00:56,640
 I have a PhD in computer science and
-I worked for over 12 years at Google.
+I've worked for over 12 years at Google.
 
 20
 00:00:56,640 --> 00:00:59,790
-I worked on just about every
-aspect of experimentation.
+I've worked on just about every
+aspect of experimentation,
 
 21
 00:00:59,790 --> 00:01:02,700
-Review from the underlying
-infrastructure to designing metrics and
+ranging from the underlying infrastructure,
+to designing metrics and dashboards,
 
 22
 00:01:02,700 --> 00:01:06,800
-dashboards to running and analyzing
-experiments to the processing culture,
+to running and analyzing experiments
+to the processing culture
 
 23
 00:01:06,800 --> 00:01:09,380
-needed to facilitate
-data driven decisions.
+needed to facilitate data-driven decisions.
 
 24
 00:01:09,380 --> 00:01:12,160
@@ -118,7 +113,7 @@ engineering perspective
 25
 00:01:12,160 --> 00:01:15,980
 on how to design and analyze
-experiments for a bus decision making.
+experiments for robust decision making.
 
 26
 00:01:15,980 --> 00:01:19,700
@@ -141,12 +136,12 @@ conclusions in A/B experiments.
 
 30
 00:01:28,600 --> 00:01:29,660
-And I'm Caroline Buckey.
+>> And I'm Caroline Buckey.
 
 31
 00:01:29,660 --> 00:01:31,993
-I'm, of course,
-a developer at UDacity and before that,
+I'm a course developer
+at Udacity and before that,
 
 32
 00:01:31,993 --> 00:01:34,140
@@ -161,4 +156,4 @@ diving into details and making sure you
 34
 00:01:37,100 --> 00:01:39,320
 have everything you need to apply
-what you're learning on your own
+what you're learning on your own.
